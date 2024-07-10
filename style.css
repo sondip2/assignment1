@@ -177,6 +177,28 @@ main section{
    padding: 0 100px 0 100px;
 }
 
+.sections-10{
+   padding:30px 30px; 
+    gap: 100px;
+    background-image: url(./assets/handshake.jpg);
+    border-radius: 10px;
+    text-align: center;
+
+}
+.heading-9{
+   font-weight: 800;
+   color: white;
+}
+
+   input[type="text"]{
+
+      height: 65px;
+      width: 50%;
+      margin-bottom: 20px;
+      font-size: 15px;
+      padding: 10px 10px;
+      border-radius: 10px;
+}
 
 
 
@@ -190,5 +212,8 @@ display: flex;
 justify-content: space-between;
 }
 
+.btn-higher{
+   height: 50px;
+}
 
 
