@@ -80,7 +80,8 @@ main section{
 .section-item{
    display: flex;
    justify-content: space-between;
-   margin: 0 110px 0 80px ;
+   margin: 0 90px 0 80px ;
+   
 }
 .learn-btn{
    background-color: gainsboro;
@@ -88,5 +89,24 @@ main section{
    padding-top: 10px;
    padding-bottom: 10px;
    font-size: 15px;
+
+}
+
+.section-items{
+   max-width: 780px;
+   display: flex;
+   justify-content: space-between;
+   margin-top: 10px;
+   margin-right: 90px;
+   margin-left: 85px;
+   margin-bottom: 0;
+
+
+}
+
+.sections-items{
+   display: flex;
+   justify-content: space-between;
+   margin: 20px 90px 0 80px ;
 
 }
