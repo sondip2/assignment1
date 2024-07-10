@@ -57,3 +57,36 @@
    background-position: top center;
    
 }
+/* main styles */
+main section{
+   margin-top: 130px;
+   margin-bottom: 130px;
+}
+
+
+
+.heading-2{
+   font-size: 25px;
+   font-weight: 800;
+   color: black;
+   text-align: center;
+}
+.section-para{
+   font-size: 18px;
+   color: olive;
+   text-align: center;
+}
+
+.section-item{
+   display: flex;
+   justify-content: space-between;
+   margin: 0 110px 0 80px ;
+}
+.learn-btn{
+   background-color: gainsboro;
+   font-weight: 600;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 15px;
+
+}
