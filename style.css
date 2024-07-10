@@ -1,0 +1,45 @@
+.azeret-mono-normal{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+
+  }
+
+  .download-btn {
+    background-color: white;
+    font-weight: 600;
+    color: 0d1321;
+    padding: 17px 31px;
+    border-radius: 5px;
+    
+  }
+  
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 71px;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 0;
+}
+/* banner style */
+ .banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 30px 0 120px;
+    text-align: center;
+ }
+ .heading-1{
+    max-width: 800;
+ }
+
+ .banner-btn{
+    background-color: black;
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
+    padding: 18px 35px;
+    border-radius: 5px; 
+}
